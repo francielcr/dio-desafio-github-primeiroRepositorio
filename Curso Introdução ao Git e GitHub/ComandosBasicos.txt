@@ -1,0 +1,5 @@
+Caso queira adicionar todos os arquivos alterados utilize o comando:		git add .
+Caso queira adicionar apenas um arquivo específico:				git add NOME_DO_ARQUIVO.EXTENSAO
+Para criar uma nova branch execute os seguintes comandos:			git checkout -b NOME_DA_BRANCH
+Commite as alterações com o comando:						git commit -m "MENSAGEM DO COMMIT"
+Envie as alterações para o repositório com o comando:				git push origin NOME_DA_BRANCH
